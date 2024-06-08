@@ -64,7 +64,7 @@
  
  ┃ ┃ ┗ 📜 image_page.dart
  
- ┃ ┃ ┗ 📜 splesh_screen.dart
+ ┃ ┃ ┗  splesh_screen.dart
  
  ┃ ┣ 📜 main.dart
  
